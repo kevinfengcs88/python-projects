@@ -24,6 +24,5 @@ pretty funny to see hundreds of players flood the game in a relatively harmless 
 click on a link, and enter the game PIN. Though there were hundreds of different botting programs available for free, one decided to become a paid service, and as you
 would expect, the rest followed suit. Without a free option to flood Kahoot! games, I decided to create one myself.
 
-This Python script utilizes the same HTML parsing API that my [Old School RuneScape price scraper](https://github.com/kevinfengcs88/osrs-projects/blob/main/sheets.py) uses:
-[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/). It takes in the number of bots you would like to flood the game, the game PIN, and generates
-unique, gibberish names for the bots and enters them into the game.
+This Python script utilizes the [selenium webdriver API](https://selenium-python.readthedocs.io/) to automate browsers for the bots. It takes in the number of bots you would 
+like to flood the game, the game PIN, and generates unique, gibberish names for the bots and enters them into the game.
