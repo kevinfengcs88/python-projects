@@ -2,7 +2,7 @@
 Python is an incredibly powerful language, and with its easy readability and useful packages, it's no wonder that it's one of the most popular coding languages. I found
 Python to be a great language to implement my ideas for various problems.
 
-## [MorseCode](https://github.com/kevinfengcs88/python-projects/blob/main/MorseCode.py), [Morse](https://github.com/kevinfengcs88/python-projects/blob/main/Morse.py), and [AdvancedMorseCode](https://github.com/kevinfengcs88/python-projects/blob/main/AdvancedMorseCode.py) (Morse Code Translator)
+## [MorseCode.py](https://github.com/kevinfengcs88/python-projects/blob/main/MorseCode.py), [Morse.py](https://github.com/kevinfengcs88/python-projects/blob/main/Morse.py), and [AdvancedMorseCode.py](https://github.com/kevinfengcs88/python-projects/blob/main/AdvancedMorseCode.py) (Morse Code Translator)
 **_The Morse Code Translator encrypts English letters into Morse code sequences and decrypts Morse code into English letters._**
 
 These projects were all created when I first learned Morse code, mainly utilizing the mnemonics that Michael "Vsauce" Stevens teaches in this [video](https://www.youtube.com/watch?v=HY_OIwideLg).
